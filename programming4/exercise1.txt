@@ -1,0 +1,9 @@
+• The age of a person in a form for a database with millions of records: short al contabilizar la edad llega a una cantidad pequeña.
+• The age of a person in days for a program in which we want to add or subtract an arbitrary number of days: int, ya que supera los bytes que puede almacenar short.
+• A student’s grade: float, ya que se necesita decimales.
+• The average amount of rainfall in the month of February: float, por la cantidad decimal de lluva que pudera caer.
+• The angle of rotation of a robot surgeon to be broadcast over the internet: float, por la precision al realizar un giro.
+• The size of your backyard: float, por los decimales.
+• The number of stars in the universe: long long por la cantidad maciva que se pudiera necesitar.
+• The balance of your bank account: float, por los decimales necesarios.
+• The position of a particle in a high-resolution game: doble, por la precision requerida,
